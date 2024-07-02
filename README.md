@@ -1,5 +1,5 @@
 ***Lost Woods***
-Emmett Tomkinson
+by Emmett Tomkinson
 January 2023
 
 Lost Woods is a CLI game inspired by the Legend of Zelda series. It is my first Pyton project.
